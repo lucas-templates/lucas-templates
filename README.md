@@ -27,16 +27,9 @@ Each project is designed to be **simple, modern, and easy to customize**.
 **Frameworks:** Bootstrap 5 • Tailwind (sometimes)  
 **Tools:** Git • GitHub • VS Code • Figma  
 
-## 📂 Featured Templates
-- **SaaS Landing Page** – clean hero, features, pricing  
-- **Agency Website Template** – modern business UI  
-- **Portfolio UI Pack** – cards, grids, buttons  
-- **JS Components Pack** – sliders, tabs, modals, accordions  
-*More templates are on the way…*
-
 ## 🎯 Goals
 - Build a set of **premium-quality free templates**  
-- Create **10+ UI component collections**  
+- Create **100+ UI component collections**  
 - Improve my design workflow with scalable systems  
 
 ## 📬 Contact  
